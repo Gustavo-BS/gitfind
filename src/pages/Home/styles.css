@@ -29,6 +29,7 @@ input{
     background: transparent;
     font-size: 18px;
     padding: 10px;
+    color: #FFFFFF;
 }
 
 button{
@@ -56,29 +57,29 @@ button{
 }
 
 .perfil h3{
-    color: #999999;
-    font-size: 24px;
+    color: #E5E5E5;
+    font-size: 28px;
     margin: 0;
 }
 
 .perfil span{
     display: block;
-    color: #999999;
-    font-size: 12px;
+    color: #bbbbbb;
+    font-size: 14px;
     margin: 0;
 }
 
 .perfil p{
     color: #999999;
-    font-size: 12px;
+    font-size: 20px;
     margin: 20px 0 0 0;
 }
 
 .repositorio{
-    font-size: 32px;
+    font-size: 36px;
     color: #FFFFFF;
     margin: 12px 0;
     text-align: center;
-    
+
 
 }
